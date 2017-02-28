@@ -19,4 +19,16 @@ const name = require('byjord/name');
 
 name();
 //=> 'blissful archimedes'
+
+name();
+//=> 'zealous northcutt'
+
+name();
+//=> 'laughing perlman'
+
+name();
+//=> 'adoring visvesvaraya'
+
+name();
+//=> 'elated ptolemy'
 ```
