@@ -8,14 +8,14 @@ Package made using [Sindre Sorhus' boilerplate](https://github.com/sindresorhus/
 ## Install
 
 ```
-$ npm install --save byjord/name
+$ npm install --save bj/name
 ```
 
 
 ## Usage
 
 ```js
-const name = require('byjord/name');
+const name = require('bj/name');
 
 name();
 //=> 'blissful archimedes'
