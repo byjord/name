@@ -1,0 +1,21 @@
+{
+  "name": "name",
+  "version": "0.0.1",
+  "description": "Generate random names like Docker",
+  "license": "Apache",
+  "repository": "byjord/name",
+  "author": {
+    "name": "Jordan Parker",
+    "email": "letsgetjordan@gmail.com",
+    "url": "https://github.com/byjord"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ]
+}
